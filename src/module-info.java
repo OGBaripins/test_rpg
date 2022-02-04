@@ -1,0 +1,2 @@
+module kursa_darbs {
+}

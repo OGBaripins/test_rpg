@@ -1,0 +1,14 @@
+ Player: df Playing: warior Item: Emerald katana  |SCORE: 15|
+ Player: i am god, mby Playing: warior Item: Emerald katana  |SCORE: 400|
+ Player: test Playing: Warior Item: Emerald katana  |SCORE: 40|
+ Player: 2 Playing: Warior Item: Emerald katana  |SCORE: 45|
+ Player: test Playing: Warior Item: Emerald katana  |SCORE: 40|
+ Player: test Playing: Warior Item: Emerald katana  |SCORE: 40|
+ Player: test2 Playing: Warior Item: Emerald katana  |SCORE: 25|
+ Player: laimu Playing: Warior Item: Steel Rapier  |SCORE: 55|
+ Player: gbfgd Playing: Warior Item: Iron Flail  |SCORE: 0|
+ Player: cunt Playing: Warior Item: Steel Rapier  |SCORE: 0|
+ Player: cunt Playing: Warior Item: Emerald katana  |SCORE: 0|
+ Player: cunt Playing: Warior Item: Steel Rapier  |SCORE: 20|
+ Player: emis Playing: Warior Item: Emerald katana  |SCORE: 10|
+ Player: f Playing: Warior Item: Iron Long Sword  |SCORE: 0|

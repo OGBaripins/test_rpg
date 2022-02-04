@@ -1,0 +1,5 @@
+name,health,base_attack,strong_atacc_bonus,doge_base (%)
+Warior,120,20.8,15.3,13
+Assassin,60,35.2,13.8,25
+Brute,150,39.9,10.2,5
+Hunter,100,29.8,10,20

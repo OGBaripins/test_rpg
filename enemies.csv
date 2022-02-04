@@ -1,0 +1,11 @@
+name,health,base_attack,last_words,strong_atacc_bonus,dodge_bonus,points
+Skeleton,100,20.8,My bones hurt!...,13.2,5,15
+Undead,100,16.8,I will find you!...,10.8,5,10
+Vampire,200,25.6,It burns!...,50.1,15,40
+Witch,150,36.4,Curse you chosen one!...,5.5,9,25
+Giant,250,50,Aarghhhh,19.8,3,50
+Orc,220,20.6,Orc dead be!...,15,7,20
+Bear,150,10.3,RRRrggghh!....,10,3,10
+Ogre,210,25.5,Tell my kids I Ioved them,25.9,10,30
+Minotaur,170,18.3,I will get you next time,40.6,13,25
+Harpy,90,38.9,Dont leave me,40.5,30,60
